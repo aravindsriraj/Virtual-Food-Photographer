@@ -5,9 +5,11 @@ An AI-powered web application that transforms restaurant menus into stunning, pr
 ## ✨ Features
 
 - **Menu Parsing**: Automatically parses restaurant menu text into structured dishes using Gemini AI
-- **AI Image Generation**: Creates photorealistic food images using Imagen 4.0
+- **AI Image Generation**: Creates photorealistic food images using Imagen 4.0 <img width="887" height="695" alt="image" src="https://github.com/user-attachments/assets/dd012cb3-5729-44af-80cf-d58fec2d9473" />
+
 - **Multiple Photography Styles**: Choose from various professional photography styles (Natural Light, Moody & Atmospheric, Bright & Airy, etc.)
-- **Image Editing**: Edit generated images with text prompts using Gemini's vision capabilities
+- **Image Editing**: Edit generated images with text prompts using Gemini's vision capabilities <img width="887" height="695" alt="image" src="https://github.com/user-attachments/assets/5fd86ece-657b-4e2e-ab2d-42b4eee5079a" />
+
 - **Social Media Captions**: Generate engaging Instagram captions for your dishes
 - **Sample Menu Generator**: Get AI-generated sample menus to try the app
 
